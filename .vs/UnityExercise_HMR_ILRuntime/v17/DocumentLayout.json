@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity3D\\UnityExercises\\UnityExercise_HMR_ILRuntime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A15E233A-277B-B8EA-6FB8-A3B3FCBDF9EB}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise_hmr_ilruntime\\assets\\scripts\\framework\\projectbase\\ilruntime\\ilruntimemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15E233A-277B-B8EA-6FB8-A3B3FCBDF9EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\framework\\projectbase\\ilruntime\\ilruntimemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15E233A-277B-B8EA-6FB8-A3B3FCBDF9EB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_HMR_ILRuntime\\assets\\scripts\\framework\\projectbase\\assetsbundles\\abmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15E233A-277B-B8EA-6FB8-A3B3FCBDF9EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\framework\\projectbase\\assetsbundles\\abmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15E233A-277B-B8EA-6FB8-A3B3FCBDF9EB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_HMR_ILRuntime\\assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15E233A-277B-B8EA-6FB8-A3B3FCBDF9EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15E233A-277B-B8EA-6FB8-A3B3FCBDF9EB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_HMR_ILRuntime\\assets\\scripts\\ui\\loadingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15E233A-277B-B8EA-6FB8-A3B3FCBDF9EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\loadingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ABMgr.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_HMR_ILRuntime\\Assets\\Scripts\\FrameWork\\ProjectBase\\AssetsBundles\\ABMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FrameWork\\ProjectBase\\AssetsBundles\\ABMgr.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_HMR_ILRuntime\\Assets\\Scripts\\FrameWork\\ProjectBase\\AssetsBundles\\ABMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FrameWork\\ProjectBase\\AssetsBundles\\ABMgr.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAwH0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:28:10.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILRuntimeMgr.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_HMR_ILRuntime\\Assets\\Scripts\\FrameWork\\ProjectBase\\ILRuntime\\ILRuntimeMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FrameWork\\ProjectBase\\ILRuntime\\ILRuntimeMgr.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_HMR_ILRuntime\\Assets\\Scripts\\FrameWork\\ProjectBase\\ILRuntime\\ILRuntimeMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FrameWork\\ProjectBase\\ILRuntime\\ILRuntimeMgr.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwv0cAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:26:47.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadingPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_HMR_ILRuntime\\Assets\\Scripts\\UI\\LoadingPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\LoadingPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_HMR_ILRuntime\\Assets\\Scripts\\UI\\LoadingPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\LoadingPanel.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvyIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:23:16.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_HMR_ILRuntime\\Assets\\Scripts\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_HMR_ILRuntime\\Assets\\Scripts\\Main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:14:48.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

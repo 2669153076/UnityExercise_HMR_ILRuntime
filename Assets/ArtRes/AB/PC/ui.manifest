@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3564031078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d3d8156b723483082a33995aa8742e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0256da8c22428b12f60f38c7d97c7e3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9d3d8156b723483082a33995aa8742e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96532fc7640ed064da92bd0c336739e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/ArtRes/UI/LoadingPanel.prefab
+Dependencies: []

@@ -1,0 +1,6 @@
+E:\Unity3D\UnityExercises\UnityExercise_HMR_ILRuntime\Assets\ArtRes\DLL\HotFix_Project.dll
+E:\Unity3D\UnityExercises\UnityExercise_HMR_ILRuntime\Assets\ArtRes\DLL\HotFix_Project.pdb
+E:\Unity3D\UnityExercises\UnityExercise_HMR_ILRuntime\Assets\Samples\ILRuntime\2.1.0\Demo\HotFix_Project~\obj\Release\HotFix_Project.csproj.AssemblyReference.cache
+E:\Unity3D\UnityExercises\UnityExercise_HMR_ILRuntime\Assets\Samples\ILRuntime\2.1.0\Demo\HotFix_Project~\obj\Release\HotFix_Project.csproj.CoreCompileInputs.cache
+E:\Unity3D\UnityExercises\UnityExercise_HMR_ILRuntime\Assets\Samples\ILRuntime\2.1.0\Demo\HotFix_Project~\obj\Release\HotFix_Project.dll
+E:\Unity3D\UnityExercises\UnityExercise_HMR_ILRuntime\Assets\Samples\ILRuntime\2.1.0\Demo\HotFix_Project~\obj\Release\HotFix_Project.pdb
